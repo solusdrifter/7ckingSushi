@@ -1,0 +1,59 @@
+# ------------- Zero Custom -------------
+
+# Set window padding:
+
+window:
+  padding:
+    x: 20
+    y: 20
+
+# Set font:
+
+font:
+  normal:
+    family: Anka/Coder Condensed
+    style: Regular
+  bold:
+    family: Anka/Coder Condensed
+    style: Bold
+  italic:
+    family: Anka/Coder Condensed
+    style: Italic
+  bold_italic:
+    family: Anka/Coder Condensed
+    style: BoldItalic
+  size: 14
+
+# Set colorscheme:
+
+colors:
+  # Default colors
+  primary:
+    background: '#111111'
+    foreground: '#FFFFFF'
+
+  # Normal colors
+  normal:
+    black: '#080808'
+    red: '#fb8150'
+    green: '#A1F791'
+    yellow: '#FFE279'
+    blue: '#779EE9'
+    magenta: '#AF8FE9'
+    cyan: '#B2F3F3'
+    white: '#E5E9F0'
+
+  # Bright colors
+  bright:
+    black: '#AFBBC4'
+    red: '#fb8150'
+    green: '#779EE9'
+    yellow: '#EBCB8B'
+    blue: '#779EE9'
+    magenta: '#AF8FE9'
+    cyan: '#B2F3F3'
+    white: '#ECEFF4'
+
+# Set background opacity:
+
+background_opacity: 0.87
